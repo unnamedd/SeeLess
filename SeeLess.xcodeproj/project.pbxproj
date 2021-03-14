@@ -1099,7 +1099,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				INFOPLIST_FILE = "SeeLess Intents/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1107,7 +1107,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "ch.ada.SeeLess.SeeLess-Intents";
+				PRODUCT_BUNDLE_IDENTIFIER = "codes.unnamedd.SeeLess.SeeLess-Intents";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1120,7 +1120,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				INFOPLIST_FILE = "SeeLess Intents/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1128,7 +1128,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "ch.ada.SeeLess.SeeLess-Intents";
+				PRODUCT_BUNDLE_IDENTIFIER = "codes.unnamedd.SeeLess.SeeLess-Intents";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1141,7 +1141,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				INFOPLIST_FILE = Thumbnail/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1149,7 +1149,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ch.ada.SeeLess.Thumbnail;
+				PRODUCT_BUNDLE_IDENTIFIER = codes.unnamedd.SeeLess.Thumbnail;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1162,7 +1162,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				INFOPLIST_FILE = Thumbnail/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1170,7 +1170,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ch.ada.SeeLess.Thumbnail;
+				PRODUCT_BUNDLE_IDENTIFIER = codes.unnamedd.SeeLess.Thumbnail;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -1303,7 +1303,7 @@
 				CODE_SIGN_ENTITLEMENTS = SeeLess/SeeLess.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1320,7 +1320,7 @@
 					"$(PROJECT_DIR)/LibTerm/ios_system",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ch.ada.SeeLess;
+				PRODUCT_BUNDLE_IDENTIFIER = codes.unnamedd.SeeLess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/SeeLess/SeeLess-BridgingHeader.h";
@@ -1341,7 +1341,7 @@
 				CODE_SIGN_ENTITLEMENTS = SeeLess/SeeLess.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Y96PL6G497;
+				DEVELOPMENT_TEAM = 56DQ8B5T2R;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1358,7 +1358,7 @@
 					"$(PROJECT_DIR)/LibTerm/ios_system",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ch.ada.SeeLess;
+				PRODUCT_BUNDLE_IDENTIFIER = codes.unnamedd.SeeLess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/SeeLess/SeeLess-BridgingHeader.h";
