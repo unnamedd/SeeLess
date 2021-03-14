@@ -11,5 +11,6 @@ sh setup.sh
 cd ../
 
 # Cocoapods
-
-pod install
+# "intel" is an alias to Intel architecture
+# alias intel='arch -x86_64'
+intel pod install
