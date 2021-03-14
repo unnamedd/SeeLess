@@ -325,7 +325,7 @@
 		C9470CAB2335B3B40044F7E0 /* python37.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = python37.zip; sourceTree = "<group>"; };
 		C9470CB02335B3BD0044F7E0 /* python27.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = python27.zip; path = LibTerm/LibTerm/python27.zip; sourceTree = SOURCE_ROOT; };
 		C9470CB12335B3BD0044F7E0 /* commandDictionary.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = commandDictionary.plist; path = LibTerm/LibTerm/commandDictionary.plist; sourceTree = SOURCE_ROOT; };
-		C96C378E244E2B090046A696 /* id.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = id.c; path = Commands/ios_system/id.c; sourceTree = "<group>"; };
+		C96C378E244E2B090046A696 /* id.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = id.c; path = Commands/id.c; sourceTree = "<group>"; };
 		C97212E52341400E0073AE5D /* usr.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = usr.zip; sourceTree = "<group>"; };
 		C97212E7234152390073AE5D /* UITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextView.swift; sourceTree = "<group>"; };
 		C97212ED23416B490073AE5D /* SeeLess Intents.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "SeeLess Intents.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -954,7 +954,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "python credits/credits.py -s \"$SRCROOT\" -o \"$SRCROOT/Settings.bundle/Credits.plist\"\n";
+			shellScript = "exit 0;\npython credits/credits.py -s \"$SRCROOT\" -o \"$SRCROOT/Settings.bundle/Credits.plist\"\n";
 		};
 		C9E2A1E1233525A300A6B471 /* Write version */ = {
 			isa = PBXShellScriptBuildPhase;
